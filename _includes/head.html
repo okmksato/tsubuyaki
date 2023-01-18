@@ -49,9 +49,11 @@
 
 {% if page.twitter-card %}
 <meta name="twitter:card" content="{{ page.twitter-card }}"  />
+<meta name="twitter:image" content="{{ site.url }}/assets/{{ page.og-image }}" />
 <meta property="og:image" content="{{ site.url }}/assets/{{ page.og-image }}" />
 {% else %}
   <meta name="twitter:card" content="summary" />
+  <meta name="twitter:image" content="{{ site.url }}/assets/{{ site.avatar }}" />
   <meta property="og:image" content="{{ site.url }}/assets/{{ site.avatar }}" />
 {% endif %}
 
