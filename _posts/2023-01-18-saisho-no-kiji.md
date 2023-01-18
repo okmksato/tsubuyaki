@@ -5,8 +5,8 @@ date: 2023-01-18 16:39:00 +0900
 categories: [雑談]
 tags: [ブログ開設]
 pin: 
-twitter-card: summary
-og-image: images/2023-01-15-chirpy-demo.jpg
+twitter-card: 
+og-image: 
 ---
 
 ### やっと新しいブログの環境が整いました
