@@ -32,7 +32,7 @@
       {% if site.img_cdn contains '//' %}
         <!-- it's a cross-origin URL -->
         {% capture replacement %}"{{ site.img_cdn }}{{ img_path }}"{% endcapture %}
-      {% else %}
+      {% elseif %}
         <!-- it's a local file path -->
         {%- capture replacement -%}
           "{{ site.img_cdn | append: '/' | append: img_path | replace: '//', '/' | absolute_url }}"
