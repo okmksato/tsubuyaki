@@ -6,7 +6,7 @@ categories: [雑談]
 tags: [ブログ開設]
 pin: 
 twitter-card: summary
-og-image: images/avatar.jpg
+og-image: images/2023-01-15-chirpy-demo.jpg
 ---
 
 ### やっと新しいブログの環境が整いました
