@@ -9,7 +9,7 @@ twitter-card: summary_large_image
 og-image: images/2023-01-18-soeda_kitsuneike_og.jpg
 ---
 
-### 狐池の不法埋め立て疑惑
+### 狐池における添田詩織事務所付近の不法埋め立て疑惑
 
 添田市議に関連した少し前のツイートの再掲です
 
