@@ -6,7 +6,7 @@ categories: [添田市議]
 tags: 
 pin: 
 twitter-card: summary_large_image
-og-image: 
+og-image: images/2023-01-18-soeda_kitsuneike_og.jpg
 ---
 
 ### 狐池の不法埋め立て疑惑
