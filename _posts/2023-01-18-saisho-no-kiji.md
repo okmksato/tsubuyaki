@@ -5,6 +5,8 @@ date: 2023-01-18 16:39:00 +0900
 categories: [雑談]
 tags: [ブログ開設]
 pin: 
+twitter-card: summary
+og-image: images/avatar.jpg
 ---
 
 ### やっと新しいブログの環境が整いました
