@@ -32,7 +32,7 @@ pin:
 
 で作成しています
 
-![Jekyll Themes Chirpy のデモサイト](../assets/images/2023-01-15-chirpy-demo.jpg)
+![Jekyll Themes Chirpy のデモサイト](/2023-01-15-chirpy-demo.jpg)
 
 [Jekyll Themes Chirpy のデモサイト](https://chirpy.cotes.page/)
 
